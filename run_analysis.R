@@ -1,6 +1,6 @@
 library(data.table)
 library(reshape2)
-setwd("C:/Users/Zhi Rong/Desktop/Datascience/Getting and Cleaning Data")
+
 path <- getwd()
 ## create directory
 if(!file.exists("Project")){
